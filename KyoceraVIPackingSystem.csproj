@@ -768,6 +768,7 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <None Include="README.md" />
     <None Include="Resources\umc-logo-transperent.png" />
   </ItemGroup>
   <ItemGroup>
