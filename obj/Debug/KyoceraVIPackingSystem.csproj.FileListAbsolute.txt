@@ -1,0 +1,136 @@
+D:\Google Drive\Github.com\work\NichiconSystem\KyoceraVIPackingSystem\bin\Debug\KyoceraVIPackingSystem.exe
+D:\Google Drive\Github.com\work\NichiconSystem\KyoceraVIPackingSystem\bin\Debug\KyoceraVIPackingSystem.pdb
+D:\Google Drive\Github.com\work\NichiconSystem\KyoceraVIPackingSystem\bin\Debug\UMC.OQC.dll
+D:\Google Drive\Github.com\work\NichiconSystem\KyoceraVIPackingSystem\bin\Debug\UMC.PVS.dll
+D:\Google Drive\Github.com\work\NichiconSystem\KyoceraVIPackingSystem\bin\Debug\UMC.DB.dll
+D:\Google Drive\Github.com\work\NichiconSystem\KyoceraVIPackingSystem\bin\Debug\UMC.OQC.pdb
+D:\Google Drive\Github.com\work\NichiconSystem\KyoceraVIPackingSystem\bin\Debug\UMC.PVS.pdb
+D:\Google Drive\Github.com\work\NichiconSystem\KyoceraVIPackingSystem\bin\Debug\UMC.DB.pdb
+D:\Google Drive\Github.com\work\NichiconSystem\KyoceraVIPackingSystem\obj\Debug\KyoceraVIPackingSystem.csprojResolveAssemblyReference.cache
+D:\Google Drive\Github.com\work\NichiconSystem\KyoceraVIPackingSystem\obj\Debug\KyoceraVIPackingSystem.FormMain.resources
+D:\Google Drive\Github.com\work\NichiconSystem\KyoceraVIPackingSystem\obj\Debug\KyoceraVIPackingSystem.Properties.Resources.resources
+D:\Google Drive\Github.com\work\NichiconSystem\KyoceraVIPackingSystem\obj\Debug\KyoceraVIPackingSystem.csproj.GenerateResource.Cache
+D:\Google Drive\Github.com\work\NichiconSystem\KyoceraVIPackingSystem\obj\Debug\KyoceraVIPackingSystem.csproj.CoreCompileInputs.cache
+D:\Google Drive\Github.com\work\NichiconSystem\KyoceraVIPackingSystem\obj\Debug\KyoceraVIPackingSystem.exe
+D:\Google Drive\Github.com\work\NichiconSystem\KyoceraVIPackingSystem\obj\Debug\KyoceraVIPackingSystem.pdb
+D:\Google Drive\Github.com\work\NichiconSystem\KyoceraVIPackingSystem\bin\Debug\KyoceraVIPackingSystem.exe.config
+D:\Google Drive\Github.com\work\NichiconSystem\KyoceraVIPackingSystem\obj\Debug\KyoceraVIPackingSystem.FormLogin.resources
+D:\Google Drive\Github.com\work\NichiconSystem\KyoceraVIPackingSystem\bin\Debug\UMC.UMES.dll
+D:\Google Drive\Github.com\work\NichiconSystem\KyoceraVIPackingSystem\bin\Debug\UMC.UMES.pdb
+D:\Google Drive\Github.com\work\NichiconSystem\KyoceraVIPackingSystem\obj\Debug\KyoceraVIPackingSystem.FormFind.resources
+D:\Google Drive\Github.com\work\NichiconSystem\KyoceraVIPackingSystem\bin\Debug\KyoceraVIPackingSystem.exe.manifest
+D:\Google Drive\Github.com\work\NichiconSystem\KyoceraVIPackingSystem\bin\Debug\KyoceraVIPackingSystem.application
+D:\Google Drive\Github.com\work\NichiconSystem\KyoceraVIPackingSystem\obj\Debug\KyoceraVIPackingSystem.exe.manifest
+D:\Google Drive\Github.com\work\NichiconSystem\KyoceraVIPackingSystem\obj\Debug\KyoceraVIPackingSystem.application
+D:\Google Drive\Github.com\work\NichiconSystem\KyoceraVIPackingSystem\obj\Debug\KyoceraVIPackingSystem.FormError.resources
+D:\Google Drive\Github.com\work\NichiconSystem\KyoceraVIPackingSystem\obj\Debug\KyoceraVIPackingSystem.csproj.CopyComplete
+E:\DEV\Works UMC\NichiconSystem\KyoceraVIPackingSystem\bin\Debug\KyoceraVIPackingSystem.exe.config
+E:\DEV\Works UMC\NichiconSystem\KyoceraVIPackingSystem\bin\Debug\KyoceraVIPackingSystem.exe.manifest
+E:\DEV\Works UMC\NichiconSystem\KyoceraVIPackingSystem\bin\Debug\KyoceraVIPackingSystem.application
+E:\DEV\Works UMC\NichiconSystem\KyoceraVIPackingSystem\bin\Debug\KyoceraVIPackingSystem.exe
+E:\DEV\Works UMC\NichiconSystem\KyoceraVIPackingSystem\bin\Debug\KyoceraVIPackingSystem.pdb
+E:\DEV\Works UMC\NichiconSystem\KyoceraVIPackingSystem\bin\Debug\UMC.OQC.dll
+E:\DEV\Works UMC\NichiconSystem\KyoceraVIPackingSystem\bin\Debug\UMC.PVS.dll
+E:\DEV\Works UMC\NichiconSystem\KyoceraVIPackingSystem\bin\Debug\UMC.UMES.dll
+E:\DEV\Works UMC\NichiconSystem\KyoceraVIPackingSystem\bin\Debug\UMC.DB.dll
+E:\DEV\Works UMC\NichiconSystem\KyoceraVIPackingSystem\bin\Debug\UMC.OQC.pdb
+E:\DEV\Works UMC\NichiconSystem\KyoceraVIPackingSystem\bin\Debug\UMC.PVS.pdb
+E:\DEV\Works UMC\NichiconSystem\KyoceraVIPackingSystem\bin\Debug\UMC.UMES.pdb
+E:\DEV\Works UMC\NichiconSystem\KyoceraVIPackingSystem\bin\Debug\UMC.DB.pdb
+E:\DEV\Works UMC\NichiconSystem\KyoceraVIPackingSystem\obj\Debug\KyoceraVIPackingSystem.csprojAssemblyReference.cache
+E:\DEV\Works UMC\NichiconSystem\KyoceraVIPackingSystem\obj\Debug\KyoceraVIPackingSystem.FormError.resources
+E:\DEV\Works UMC\NichiconSystem\KyoceraVIPackingSystem\obj\Debug\KyoceraVIPackingSystem.FormFind.resources
+E:\DEV\Works UMC\NichiconSystem\KyoceraVIPackingSystem\obj\Debug\KyoceraVIPackingSystem.FormLogin.resources
+E:\DEV\Works UMC\NichiconSystem\KyoceraVIPackingSystem\obj\Debug\KyoceraVIPackingSystem.FormMain.resources
+E:\DEV\Works UMC\NichiconSystem\KyoceraVIPackingSystem\obj\Debug\KyoceraVIPackingSystem.Properties.Resources.resources
+E:\DEV\Works UMC\NichiconSystem\KyoceraVIPackingSystem\obj\Debug\KyoceraVIPackingSystem.csproj.GenerateResource.cache
+E:\DEV\Works UMC\NichiconSystem\KyoceraVIPackingSystem\obj\Debug\KyoceraVIPackingSystem.csproj.CoreCompileInputs.cache
+E:\DEV\Works UMC\NichiconSystem\KyoceraVIPackingSystem\obj\Debug\KyoceraVIPackingSystem.exe.manifest
+E:\DEV\Works UMC\NichiconSystem\KyoceraVIPackingSystem\obj\Debug\KyoceraVIPackingSystem.application
+E:\DEV\Works UMC\NichiconSystem\KyoceraVIPackingSystem\obj\Debug\KyoceraVIPackingSystem.csproj.CopyComplete
+E:\DEV\Works UMC\NichiconSystem\KyoceraVIPackingSystem\obj\Debug\KyoceraVIPackingSystem.exe
+E:\DEV\Works UMC\NichiconSystem\KyoceraVIPackingSystem\obj\Debug\KyoceraVIPackingSystem.pdb
+E:\DEV\Works UMC\UMC Projects\KyoceraVIPackingSystem\obj\Debug\KyoceraVIPackingSystem.csprojAssemblyReference.cache
+E:\DEV\Works UMC\UMC Projects\KyoceraVIPackingSystem\obj\Debug\KyoceraVIPackingSystem.FormError.resources
+E:\DEV\Works UMC\UMC Projects\KyoceraVIPackingSystem\obj\Debug\KyoceraVIPackingSystem.FormFind.resources
+E:\DEV\Works UMC\UMC Projects\KyoceraVIPackingSystem\obj\Debug\KyoceraVIPackingSystem.FormLogin.resources
+E:\DEV\Works UMC\UMC Projects\KyoceraVIPackingSystem\obj\Debug\KyoceraVIPackingSystem.FormMain.resources
+E:\DEV\Works UMC\UMC Projects\KyoceraVIPackingSystem\obj\Debug\KyoceraVIPackingSystem.Properties.Resources.resources
+E:\DEV\Works UMC\UMC Projects\KyoceraVIPackingSystem\obj\Debug\KyoceraVIPackingSystem.csproj.GenerateResource.cache
+E:\DEV\Works UMC\UMC Projects\KyoceraVIPackingSystem\obj\Debug\KyoceraVIPackingSystem.csproj.CoreCompileInputs.cache
+E:\DEV\Works UMC\UMC Projects\KyoceraVIPackingSystem\bin\Debug\KyoceraVIPackingSystem.exe.config
+E:\DEV\Works UMC\UMC Projects\KyoceraVIPackingSystem\bin\Debug\KyoceraVIPackingSystem.exe.manifest
+E:\DEV\Works UMC\UMC Projects\KyoceraVIPackingSystem\bin\Debug\KyoceraVIPackingSystem.application
+E:\DEV\Works UMC\UMC Projects\KyoceraVIPackingSystem\bin\Debug\KyoceraVIPackingSystem.exe
+E:\DEV\Works UMC\UMC Projects\KyoceraVIPackingSystem\bin\Debug\KyoceraVIPackingSystem.pdb
+E:\DEV\Works UMC\UMC Projects\KyoceraVIPackingSystem\bin\Debug\Newtonsoft.Json.dll
+E:\DEV\Works UMC\UMC Projects\KyoceraVIPackingSystem\bin\Debug\System.Net.Http.Extensions.dll
+E:\DEV\Works UMC\UMC Projects\KyoceraVIPackingSystem\bin\Debug\System.Net.Http.Formatting.dll
+E:\DEV\Works UMC\UMC Projects\KyoceraVIPackingSystem\bin\Debug\System.Net.Http.Primitives.dll
+E:\DEV\Works UMC\UMC Projects\KyoceraVIPackingSystem\bin\Debug\UMC.API.BLL.dll
+E:\DEV\Works UMC\UMC Projects\KyoceraVIPackingSystem\bin\Debug\UMC.API.Entity.dll
+E:\DEV\Works UMC\UMC Projects\KyoceraVIPackingSystem\bin\Debug\UMC.API.Entity.pdb
+E:\DEV\Works UMC\UMC Projects\KyoceraVIPackingSystem\bin\Debug\UMC.API.BLL.pdb
+E:\DEV\Works UMC\UMC Projects\KyoceraVIPackingSystem\bin\Debug\UMC.API.BLL.dll.config
+E:\DEV\Works UMC\UMC Projects\KyoceraVIPackingSystem\bin\Debug\Newtonsoft.Json.xml
+E:\DEV\Works UMC\UMC Projects\KyoceraVIPackingSystem\obj\Debug\KyoceraVIPackingSystem.exe.manifest
+E:\DEV\Works UMC\UMC Projects\KyoceraVIPackingSystem\obj\Debug\KyoceraVIPackingSystem.application
+E:\DEV\Works UMC\UMC Projects\KyoceraVIPackingSystem\obj\Debug\KyoceraVIPackingSystem.csproj.CopyComplete
+E:\DEV\Works UMC\UMC Projects\KyoceraVIPackingSystem\obj\Debug\KyoceraVIPackingSystem.exe
+E:\DEV\Works UMC\UMC Projects\KyoceraVIPackingSystem\obj\Debug\KyoceraVIPackingSystem.pdb
+D:\DEV\Works UMC\UMC Projects\KyoceraVIPackingSystem\bin\Debug\KyoceraVIPackingSystem.exe.config
+D:\DEV\Works UMC\UMC Projects\KyoceraVIPackingSystem\bin\Debug\KyoceraVIPackingSystem.exe.manifest
+D:\DEV\Works UMC\UMC Projects\KyoceraVIPackingSystem\bin\Debug\KyoceraVIPackingSystem.application
+D:\DEV\Works UMC\UMC Projects\KyoceraVIPackingSystem\bin\Debug\KyoceraVIPackingSystem.exe
+D:\DEV\Works UMC\UMC Projects\KyoceraVIPackingSystem\bin\Debug\KyoceraVIPackingSystem.pdb
+D:\DEV\Works UMC\UMC Projects\KyoceraVIPackingSystem\bin\Debug\Newtonsoft.Json.dll
+D:\DEV\Works UMC\UMC Projects\KyoceraVIPackingSystem\bin\Debug\System.Net.Http.Extensions.dll
+D:\DEV\Works UMC\UMC Projects\KyoceraVIPackingSystem\bin\Debug\System.Net.Http.Formatting.dll
+D:\DEV\Works UMC\UMC Projects\KyoceraVIPackingSystem\bin\Debug\System.Net.Http.Primitives.dll
+D:\DEV\Works UMC\UMC Projects\KyoceraVIPackingSystem\bin\Debug\UMC.API.BLL.dll
+D:\DEV\Works UMC\UMC Projects\KyoceraVIPackingSystem\bin\Debug\UMC.API.Entity.dll
+D:\DEV\Works UMC\UMC Projects\KyoceraVIPackingSystem\bin\Debug\UMC.API.Entity.pdb
+D:\DEV\Works UMC\UMC Projects\KyoceraVIPackingSystem\bin\Debug\UMC.API.BLL.pdb
+D:\DEV\Works UMC\UMC Projects\KyoceraVIPackingSystem\bin\Debug\UMC.API.BLL.dll.config
+D:\DEV\Works UMC\UMC Projects\KyoceraVIPackingSystem\bin\Debug\Newtonsoft.Json.xml
+D:\DEV\Works UMC\UMC Projects\KyoceraVIPackingSystem\obj\Debug\KyoceraVIPackingSystem.csprojAssemblyReference.cache
+D:\DEV\Works UMC\UMC Projects\KyoceraVIPackingSystem\obj\Debug\KyoceraVIPackingSystem.FormError.resources
+D:\DEV\Works UMC\UMC Projects\KyoceraVIPackingSystem\obj\Debug\KyoceraVIPackingSystem.FormFind.resources
+D:\DEV\Works UMC\UMC Projects\KyoceraVIPackingSystem\obj\Debug\KyoceraVIPackingSystem.FormLogin.resources
+D:\DEV\Works UMC\UMC Projects\KyoceraVIPackingSystem\obj\Debug\KyoceraVIPackingSystem.FormMain.resources
+D:\DEV\Works UMC\UMC Projects\KyoceraVIPackingSystem\obj\Debug\KyoceraVIPackingSystem.Properties.Resources.resources
+D:\DEV\Works UMC\UMC Projects\KyoceraVIPackingSystem\obj\Debug\KyoceraVIPackingSystem.csproj.GenerateResource.cache
+D:\DEV\Works UMC\UMC Projects\KyoceraVIPackingSystem\obj\Debug\KyoceraVIPackingSystem.csproj.CoreCompileInputs.cache
+D:\DEV\Works UMC\UMC Projects\KyoceraVIPackingSystem\obj\Debug\KyoceraVIPackingSystem.exe.manifest
+D:\DEV\Works UMC\UMC Projects\KyoceraVIPackingSystem\obj\Debug\KyoceraVIPackingSystem.application
+D:\DEV\Works UMC\UMC Projects\KyoceraVIPackingSystem\obj\Debug\KyoceraVIPackingSystem.csproj.CopyComplete
+D:\DEV\Works UMC\UMC Projects\KyoceraVIPackingSystem\obj\Debug\KyoceraVIPackingSystem.exe
+D:\DEV\Works UMC\UMC Projects\KyoceraVIPackingSystem\obj\Debug\KyoceraVIPackingSystem.pdb
+D:\u16354 (cuongpv)\Works UMC\UMC Projects\KyoceraVIPackingSystem\bin\Debug\KyoceraVIPackingSystem.exe.config
+D:\u16354 (cuongpv)\Works UMC\UMC Projects\KyoceraVIPackingSystem\bin\Debug\KyoceraVIPackingSystem.exe.manifest
+D:\u16354 (cuongpv)\Works UMC\UMC Projects\KyoceraVIPackingSystem\bin\Debug\KyoceraVIPackingSystem.application
+D:\u16354 (cuongpv)\Works UMC\UMC Projects\KyoceraVIPackingSystem\bin\Debug\KyoceraVIPackingSystem.exe
+D:\u16354 (cuongpv)\Works UMC\UMC Projects\KyoceraVIPackingSystem\bin\Debug\KyoceraVIPackingSystem.pdb
+D:\u16354 (cuongpv)\Works UMC\UMC Projects\KyoceraVIPackingSystem\bin\Debug\EntityFramework.dll
+D:\u16354 (cuongpv)\Works UMC\UMC Projects\KyoceraVIPackingSystem\bin\Debug\EntityFramework.SqlServer.dll
+D:\u16354 (cuongpv)\Works UMC\UMC Projects\KyoceraVIPackingSystem\bin\Debug\Newtonsoft.Json.dll
+D:\u16354 (cuongpv)\Works UMC\UMC Projects\KyoceraVIPackingSystem\bin\Debug\System.Net.Http.Extensions.dll
+D:\u16354 (cuongpv)\Works UMC\UMC Projects\KyoceraVIPackingSystem\bin\Debug\System.Net.Http.Formatting.dll
+D:\u16354 (cuongpv)\Works UMC\UMC Projects\KyoceraVIPackingSystem\bin\Debug\System.Net.Http.Primitives.dll
+D:\u16354 (cuongpv)\Works UMC\UMC Projects\KyoceraVIPackingSystem\bin\Debug\EntityFramework.xml
+D:\u16354 (cuongpv)\Works UMC\UMC Projects\KyoceraVIPackingSystem\bin\Debug\EntityFramework.SqlServer.xml
+D:\u16354 (cuongpv)\Works UMC\UMC Projects\KyoceraVIPackingSystem\bin\Debug\Newtonsoft.Json.xml
+D:\u16354 (cuongpv)\Works UMC\UMC Projects\KyoceraVIPackingSystem\obj\Debug\KyoceraVIPackingSystem.FormLogin.resources
+D:\u16354 (cuongpv)\Works UMC\UMC Projects\KyoceraVIPackingSystem\obj\Debug\KyoceraVIPackingSystem.FormMain.resources
+D:\u16354 (cuongpv)\Works UMC\UMC Projects\KyoceraVIPackingSystem\obj\Debug\KyoceraVIPackingSystem.Properties.Resources.resources
+D:\u16354 (cuongpv)\Works UMC\UMC Projects\KyoceraVIPackingSystem\obj\Debug\KyoceraVIPackingSystem.csproj.GenerateResource.cache
+D:\u16354 (cuongpv)\Works UMC\UMC Projects\KyoceraVIPackingSystem\obj\Debug\KyoceraVIPackingSystem.csproj.CoreCompileInputs.cache
+D:\u16354 (cuongpv)\Works UMC\UMC Projects\KyoceraVIPackingSystem\obj\Debug\KyoceraVIPackingSystem.exe.manifest
+D:\u16354 (cuongpv)\Works UMC\UMC Projects\KyoceraVIPackingSystem\obj\Debug\KyoceraVIPackingSystem.application
+D:\u16354 (cuongpv)\Works UMC\UMC Projects\KyoceraVIPackingSystem\obj\Debug\KyoceraVIPackingSystem.csproj.CopyComplete
+D:\u16354 (cuongpv)\Works UMC\UMC Projects\KyoceraVIPackingSystem\obj\Debug\KyoceraVIPackingSystem.exe
+D:\u16354 (cuongpv)\Works UMC\UMC Projects\KyoceraVIPackingSystem\obj\Debug\KyoceraVIPackingSystem.pdb
+D:\u16354 (cuongpv)\Works UMC\UMC Projects\KyoceraVIPackingSystem\obj\Debug\KyoceraVIPackingSystem.frmLockSystem.resources
+D:\u16354 (cuongpv)\Works UMC\UMC Projects\KyoceraVIPackingSystem\obj\Debug\KyoceraVIPackingSystem.frmErrOld.resources
+D:\u16354 (cuongpv)\Works UMC\UMC Projects\KyoceraVIPackingSystem\obj\Debug\KyoceraVIPackingSystem.frmWaitForm.resources
+D:\u16354 (cuongpv)\Works UMC\UMC Projects\KyoceraVIPackingSystem\obj\Debug\KyoceraVIPackingSystem.csproj.AssemblyReference.cache

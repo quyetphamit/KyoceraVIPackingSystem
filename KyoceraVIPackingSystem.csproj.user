@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>\\172.28.10.12\Share\18 IT\U23702%28quyetpv%29\PROGRAM\11.KYO\VI-PACKING\|\\172.28.10.21\Share\18 IT\U16354 %28cuongpv%29\Dev\3. Kyocera\Kyocera VI Packing System net45_API\Publish\|\\172.28.10.21\Share\18 IT\U16354 %28cuongpv%29\Dev\Kyocera VI Packing System\|\\vn-file2\Share\18 IT\U16354 %28cuongpv%29\Dev\Kyocera VI Packing System\|publish\</PublishUrlHistory>
+    <InstallUrlHistory />
+    <SupportUrlHistory />
+    <UpdateUrlHistory>\\172.28.10.21\Share\18 IT\U16354 %28cuongpv%29\Dev\3. Kyocera\Kyocera VI Packing System net45_API\Publish\|\\vn-file2\Share\18 IT\U16354 %28cuongpv%29\Dev\Kyocera VI Packing System\</UpdateUrlHistory>
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory />
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+  <PropertyGroup>
+    <EnableSecurityDebugging>false</EnableSecurityDebugging>
+  </PropertyGroup>
+</Project>
