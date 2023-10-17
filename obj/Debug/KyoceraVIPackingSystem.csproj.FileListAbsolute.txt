@@ -134,3 +134,31 @@ D:\u16354 (cuongpv)\Works UMC\UMC Projects\KyoceraVIPackingSystem\obj\Debug\Kyoc
 D:\u16354 (cuongpv)\Works UMC\UMC Projects\KyoceraVIPackingSystem\obj\Debug\KyoceraVIPackingSystem.frmErrOld.resources
 D:\u16354 (cuongpv)\Works UMC\UMC Projects\KyoceraVIPackingSystem\obj\Debug\KyoceraVIPackingSystem.frmWaitForm.resources
 D:\u16354 (cuongpv)\Works UMC\UMC Projects\KyoceraVIPackingSystem\obj\Debug\KyoceraVIPackingSystem.csproj.AssemblyReference.cache
+C:\Users\u38225\source\repos\KyoceraVIPackingSystem\bin\Debug\KyoceraVIPackingSystem.exe.config
+C:\Users\u38225\source\repos\KyoceraVIPackingSystem\bin\Debug\KyoceraVIPackingSystem.exe.manifest
+C:\Users\u38225\source\repos\KyoceraVIPackingSystem\bin\Debug\KyoceraVIPackingSystem.application
+C:\Users\u38225\source\repos\KyoceraVIPackingSystem\bin\Debug\KyoceraVIPackingSystem.exe
+C:\Users\u38225\source\repos\KyoceraVIPackingSystem\bin\Debug\KyoceraVIPackingSystem.pdb
+C:\Users\u38225\source\repos\KyoceraVIPackingSystem\bin\Debug\EntityFramework.dll
+C:\Users\u38225\source\repos\KyoceraVIPackingSystem\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\u38225\source\repos\KyoceraVIPackingSystem\bin\Debug\Newtonsoft.Json.dll
+C:\Users\u38225\source\repos\KyoceraVIPackingSystem\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\u38225\source\repos\KyoceraVIPackingSystem\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\u38225\source\repos\KyoceraVIPackingSystem\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\u38225\source\repos\KyoceraVIPackingSystem\bin\Debug\EntityFramework.xml
+C:\Users\u38225\source\repos\KyoceraVIPackingSystem\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\u38225\source\repos\KyoceraVIPackingSystem\bin\Debug\Newtonsoft.Json.xml
+C:\Users\u38225\source\repos\KyoceraVIPackingSystem\obj\Debug\KyoceraVIPackingSystem.frmLockSystem.resources
+C:\Users\u38225\source\repos\KyoceraVIPackingSystem\obj\Debug\KyoceraVIPackingSystem.frmErrOld.resources
+C:\Users\u38225\source\repos\KyoceraVIPackingSystem\obj\Debug\KyoceraVIPackingSystem.FormLogin.resources
+C:\Users\u38225\source\repos\KyoceraVIPackingSystem\obj\Debug\KyoceraVIPackingSystem.FormMain.resources
+C:\Users\u38225\source\repos\KyoceraVIPackingSystem\obj\Debug\KyoceraVIPackingSystem.frmWaitForm.resources
+C:\Users\u38225\source\repos\KyoceraVIPackingSystem\obj\Debug\KyoceraVIPackingSystem.Properties.Resources.resources
+C:\Users\u38225\source\repos\KyoceraVIPackingSystem\obj\Debug\KyoceraVIPackingSystem.csproj.GenerateResource.cache
+C:\Users\u38225\source\repos\KyoceraVIPackingSystem\obj\Debug\KyoceraVIPackingSystem.csproj.CoreCompileInputs.cache
+C:\Users\u38225\source\repos\KyoceraVIPackingSystem\obj\Debug\KyoceraVIPackingSystem.exe.manifest
+C:\Users\u38225\source\repos\KyoceraVIPackingSystem\obj\Debug\KyoceraVIPackingSystem.application
+C:\Users\u38225\source\repos\KyoceraVIPackingSystem\obj\Debug\KyoceraVIPackingSystem.csproj.CopyComplete
+C:\Users\u38225\source\repos\KyoceraVIPackingSystem\obj\Debug\KyoceraVIPackingSystem.exe
+C:\Users\u38225\source\repos\KyoceraVIPackingSystem\obj\Debug\KyoceraVIPackingSystem.pdb
+C:\Users\u38225\source\repos\KyoceraVIPackingSystem\obj\Debug\KyoceraVIPackingSystem.csproj.AssemblyReference.cache

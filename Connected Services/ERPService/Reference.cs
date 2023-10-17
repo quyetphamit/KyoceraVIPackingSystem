@@ -1913,6 +1913,20 @@ namespace KyoceraVIPackingSystem.ERPService {
         [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/OQCTestLogUpdate", ReplyAction="*")]
         System.Threading.Tasks.Task<KyoceraVIPackingSystem.ERPService.OQCTestLogUpdateResponse> OQCTestLogUpdateAsync(KyoceraVIPackingSystem.ERPService.OQCTestLogUpdateRequest request);
         
+        // CODEGEN: Generating message contract since element name boxID from namespace http://tempuri.org/ is not marked nillable
+        [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/ShippingRevert", ReplyAction="*")]
+        KyoceraVIPackingSystem.ERPService.ShippingRevertResponse ShippingRevert(KyoceraVIPackingSystem.ERPService.ShippingRevertRequest request);
+        
+        [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/ShippingRevert", ReplyAction="*")]
+        System.Threading.Tasks.Task<KyoceraVIPackingSystem.ERPService.ShippingRevertResponse> ShippingRevertAsync(KyoceraVIPackingSystem.ERPService.ShippingRevertRequest request);
+        
+        // CODEGEN: Generating message contract since element name boxID from namespace http://tempuri.org/ is not marked nillable
+        [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/ShippingGetByBoxID", ReplyAction="*")]
+        KyoceraVIPackingSystem.ERPService.ShippingGetByBoxIDResponse ShippingGetByBoxID(KyoceraVIPackingSystem.ERPService.ShippingGetByBoxIDRequest request);
+        
+        [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/ShippingGetByBoxID", ReplyAction="*")]
+        System.Threading.Tasks.Task<KyoceraVIPackingSystem.ERPService.ShippingGetByBoxIDResponse> ShippingGetByBoxIDAsync(KyoceraVIPackingSystem.ERPService.ShippingGetByBoxIDRequest request);
+        
         // CODEGEN: Generating message contract since element name boardNo from namespace http://tempuri.org/ is not marked nillable
         [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/OQCTestLogExist", ReplyAction="*")]
         KyoceraVIPackingSystem.ERPService.OQCTestLogExistResponse OQCTestLogExist(KyoceraVIPackingSystem.ERPService.OQCTestLogExistRequest request);
@@ -3362,6 +3376,142 @@ namespace KyoceraVIPackingSystem.ERPService {
     [System.CodeDom.Compiler.GeneratedCodeAttribute("System.ServiceModel", "4.0.0.0")]
     [System.ComponentModel.EditorBrowsableAttribute(System.ComponentModel.EditorBrowsableState.Advanced)]
     [System.ServiceModel.MessageContractAttribute(IsWrapped=false)]
+    public partial class ShippingRevertRequest {
+        
+        [System.ServiceModel.MessageBodyMemberAttribute(Name="ShippingRevert", Namespace="http://tempuri.org/", Order=0)]
+        public KyoceraVIPackingSystem.ERPService.ShippingRevertRequestBody Body;
+        
+        public ShippingRevertRequest() {
+        }
+        
+        public ShippingRevertRequest(KyoceraVIPackingSystem.ERPService.ShippingRevertRequestBody Body) {
+            this.Body = Body;
+        }
+    }
+    
+    [System.Diagnostics.DebuggerStepThroughAttribute()]
+    [System.CodeDom.Compiler.GeneratedCodeAttribute("System.ServiceModel", "4.0.0.0")]
+    [System.ComponentModel.EditorBrowsableAttribute(System.ComponentModel.EditorBrowsableState.Advanced)]
+    [System.Runtime.Serialization.DataContractAttribute(Namespace="http://tempuri.org/")]
+    public partial class ShippingRevertRequestBody {
+        
+        [System.Runtime.Serialization.DataMemberAttribute(EmitDefaultValue=false, Order=0)]
+        public string boxID;
+        
+        public ShippingRevertRequestBody() {
+        }
+        
+        public ShippingRevertRequestBody(string boxID) {
+            this.boxID = boxID;
+        }
+    }
+    
+    [System.Diagnostics.DebuggerStepThroughAttribute()]
+    [System.CodeDom.Compiler.GeneratedCodeAttribute("System.ServiceModel", "4.0.0.0")]
+    [System.ComponentModel.EditorBrowsableAttribute(System.ComponentModel.EditorBrowsableState.Advanced)]
+    [System.ServiceModel.MessageContractAttribute(IsWrapped=false)]
+    public partial class ShippingRevertResponse {
+        
+        [System.ServiceModel.MessageBodyMemberAttribute(Name="ShippingRevertResponse", Namespace="http://tempuri.org/", Order=0)]
+        public KyoceraVIPackingSystem.ERPService.ShippingRevertResponseBody Body;
+        
+        public ShippingRevertResponse() {
+        }
+        
+        public ShippingRevertResponse(KyoceraVIPackingSystem.ERPService.ShippingRevertResponseBody Body) {
+            this.Body = Body;
+        }
+    }
+    
+    [System.Diagnostics.DebuggerStepThroughAttribute()]
+    [System.CodeDom.Compiler.GeneratedCodeAttribute("System.ServiceModel", "4.0.0.0")]
+    [System.ComponentModel.EditorBrowsableAttribute(System.ComponentModel.EditorBrowsableState.Advanced)]
+    [System.Runtime.Serialization.DataContractAttribute(Namespace="http://tempuri.org/")]
+    public partial class ShippingRevertResponseBody {
+        
+        [System.Runtime.Serialization.DataMemberAttribute(EmitDefaultValue=false, Order=0)]
+        public KyoceraVIPackingSystem.ERPService.ResultEntity ShippingRevertResult;
+        
+        public ShippingRevertResponseBody() {
+        }
+        
+        public ShippingRevertResponseBody(KyoceraVIPackingSystem.ERPService.ResultEntity ShippingRevertResult) {
+            this.ShippingRevertResult = ShippingRevertResult;
+        }
+    }
+    
+    [System.Diagnostics.DebuggerStepThroughAttribute()]
+    [System.CodeDom.Compiler.GeneratedCodeAttribute("System.ServiceModel", "4.0.0.0")]
+    [System.ComponentModel.EditorBrowsableAttribute(System.ComponentModel.EditorBrowsableState.Advanced)]
+    [System.ServiceModel.MessageContractAttribute(IsWrapped=false)]
+    public partial class ShippingGetByBoxIDRequest {
+        
+        [System.ServiceModel.MessageBodyMemberAttribute(Name="ShippingGetByBoxID", Namespace="http://tempuri.org/", Order=0)]
+        public KyoceraVIPackingSystem.ERPService.ShippingGetByBoxIDRequestBody Body;
+        
+        public ShippingGetByBoxIDRequest() {
+        }
+        
+        public ShippingGetByBoxIDRequest(KyoceraVIPackingSystem.ERPService.ShippingGetByBoxIDRequestBody Body) {
+            this.Body = Body;
+        }
+    }
+    
+    [System.Diagnostics.DebuggerStepThroughAttribute()]
+    [System.CodeDom.Compiler.GeneratedCodeAttribute("System.ServiceModel", "4.0.0.0")]
+    [System.ComponentModel.EditorBrowsableAttribute(System.ComponentModel.EditorBrowsableState.Advanced)]
+    [System.Runtime.Serialization.DataContractAttribute(Namespace="http://tempuri.org/")]
+    public partial class ShippingGetByBoxIDRequestBody {
+        
+        [System.Runtime.Serialization.DataMemberAttribute(EmitDefaultValue=false, Order=0)]
+        public string boxID;
+        
+        public ShippingGetByBoxIDRequestBody() {
+        }
+        
+        public ShippingGetByBoxIDRequestBody(string boxID) {
+            this.boxID = boxID;
+        }
+    }
+    
+    [System.Diagnostics.DebuggerStepThroughAttribute()]
+    [System.CodeDom.Compiler.GeneratedCodeAttribute("System.ServiceModel", "4.0.0.0")]
+    [System.ComponentModel.EditorBrowsableAttribute(System.ComponentModel.EditorBrowsableState.Advanced)]
+    [System.ServiceModel.MessageContractAttribute(IsWrapped=false)]
+    public partial class ShippingGetByBoxIDResponse {
+        
+        [System.ServiceModel.MessageBodyMemberAttribute(Name="ShippingGetByBoxIDResponse", Namespace="http://tempuri.org/", Order=0)]
+        public KyoceraVIPackingSystem.ERPService.ShippingGetByBoxIDResponseBody Body;
+        
+        public ShippingGetByBoxIDResponse() {
+        }
+        
+        public ShippingGetByBoxIDResponse(KyoceraVIPackingSystem.ERPService.ShippingGetByBoxIDResponseBody Body) {
+            this.Body = Body;
+        }
+    }
+    
+    [System.Diagnostics.DebuggerStepThroughAttribute()]
+    [System.CodeDom.Compiler.GeneratedCodeAttribute("System.ServiceModel", "4.0.0.0")]
+    [System.ComponentModel.EditorBrowsableAttribute(System.ComponentModel.EditorBrowsableState.Advanced)]
+    [System.Runtime.Serialization.DataContractAttribute(Namespace="http://tempuri.org/")]
+    public partial class ShippingGetByBoxIDResponseBody {
+        
+        [System.Runtime.Serialization.DataMemberAttribute(EmitDefaultValue=false, Order=0)]
+        public KyoceraVIPackingSystem.ERPService.ArrayOfTbl_test_logEntity ShippingGetByBoxIDResult;
+        
+        public ShippingGetByBoxIDResponseBody() {
+        }
+        
+        public ShippingGetByBoxIDResponseBody(KyoceraVIPackingSystem.ERPService.ArrayOfTbl_test_logEntity ShippingGetByBoxIDResult) {
+            this.ShippingGetByBoxIDResult = ShippingGetByBoxIDResult;
+        }
+    }
+    
+    [System.Diagnostics.DebuggerStepThroughAttribute()]
+    [System.CodeDom.Compiler.GeneratedCodeAttribute("System.ServiceModel", "4.0.0.0")]
+    [System.ComponentModel.EditorBrowsableAttribute(System.ComponentModel.EditorBrowsableState.Advanced)]
+    [System.ServiceModel.MessageContractAttribute(IsWrapped=false)]
     public partial class OQCTestLogExistRequest {
         
         [System.ServiceModel.MessageBodyMemberAttribute(Name="OQCTestLogExist", Namespace="http://tempuri.org/", Order=0)]
@@ -4669,12 +4819,12 @@ namespace KyoceraVIPackingSystem.ERPService {
     public partial class FixtureFindResponseBody {
         
         [System.Runtime.Serialization.DataMemberAttribute(EmitDefaultValue=false, Order=0)]
-        public KyoceraVIPackingSystem.ERPService.FixtureEntity FixtureFindResult;
+        public KyoceraVIPackingSystem.ERPService.FixtureEntity[] FixtureFindResult;
         
         public FixtureFindResponseBody() {
         }
         
-        public FixtureFindResponseBody(KyoceraVIPackingSystem.ERPService.FixtureEntity FixtureFindResult) {
+        public FixtureFindResponseBody(KyoceraVIPackingSystem.ERPService.FixtureEntity[] FixtureFindResult) {
             this.FixtureFindResult = FixtureFindResult;
         }
     }
@@ -6045,6 +6195,56 @@ namespace KyoceraVIPackingSystem.ERPService {
         }
         
         [System.ComponentModel.EditorBrowsableAttribute(System.ComponentModel.EditorBrowsableState.Advanced)]
+        KyoceraVIPackingSystem.ERPService.ShippingRevertResponse KyoceraVIPackingSystem.ERPService.ERPWebServiceSoap.ShippingRevert(KyoceraVIPackingSystem.ERPService.ShippingRevertRequest request) {
+            return base.Channel.ShippingRevert(request);
+        }
+        
+        public KyoceraVIPackingSystem.ERPService.ResultEntity ShippingRevert(string boxID) {
+            KyoceraVIPackingSystem.ERPService.ShippingRevertRequest inValue = new KyoceraVIPackingSystem.ERPService.ShippingRevertRequest();
+            inValue.Body = new KyoceraVIPackingSystem.ERPService.ShippingRevertRequestBody();
+            inValue.Body.boxID = boxID;
+            KyoceraVIPackingSystem.ERPService.ShippingRevertResponse retVal = ((KyoceraVIPackingSystem.ERPService.ERPWebServiceSoap)(this)).ShippingRevert(inValue);
+            return retVal.Body.ShippingRevertResult;
+        }
+        
+        [System.ComponentModel.EditorBrowsableAttribute(System.ComponentModel.EditorBrowsableState.Advanced)]
+        System.Threading.Tasks.Task<KyoceraVIPackingSystem.ERPService.ShippingRevertResponse> KyoceraVIPackingSystem.ERPService.ERPWebServiceSoap.ShippingRevertAsync(KyoceraVIPackingSystem.ERPService.ShippingRevertRequest request) {
+            return base.Channel.ShippingRevertAsync(request);
+        }
+        
+        public System.Threading.Tasks.Task<KyoceraVIPackingSystem.ERPService.ShippingRevertResponse> ShippingRevertAsync(string boxID) {
+            KyoceraVIPackingSystem.ERPService.ShippingRevertRequest inValue = new KyoceraVIPackingSystem.ERPService.ShippingRevertRequest();
+            inValue.Body = new KyoceraVIPackingSystem.ERPService.ShippingRevertRequestBody();
+            inValue.Body.boxID = boxID;
+            return ((KyoceraVIPackingSystem.ERPService.ERPWebServiceSoap)(this)).ShippingRevertAsync(inValue);
+        }
+        
+        [System.ComponentModel.EditorBrowsableAttribute(System.ComponentModel.EditorBrowsableState.Advanced)]
+        KyoceraVIPackingSystem.ERPService.ShippingGetByBoxIDResponse KyoceraVIPackingSystem.ERPService.ERPWebServiceSoap.ShippingGetByBoxID(KyoceraVIPackingSystem.ERPService.ShippingGetByBoxIDRequest request) {
+            return base.Channel.ShippingGetByBoxID(request);
+        }
+        
+        public KyoceraVIPackingSystem.ERPService.ArrayOfTbl_test_logEntity ShippingGetByBoxID(string boxID) {
+            KyoceraVIPackingSystem.ERPService.ShippingGetByBoxIDRequest inValue = new KyoceraVIPackingSystem.ERPService.ShippingGetByBoxIDRequest();
+            inValue.Body = new KyoceraVIPackingSystem.ERPService.ShippingGetByBoxIDRequestBody();
+            inValue.Body.boxID = boxID;
+            KyoceraVIPackingSystem.ERPService.ShippingGetByBoxIDResponse retVal = ((KyoceraVIPackingSystem.ERPService.ERPWebServiceSoap)(this)).ShippingGetByBoxID(inValue);
+            return retVal.Body.ShippingGetByBoxIDResult;
+        }
+        
+        [System.ComponentModel.EditorBrowsableAttribute(System.ComponentModel.EditorBrowsableState.Advanced)]
+        System.Threading.Tasks.Task<KyoceraVIPackingSystem.ERPService.ShippingGetByBoxIDResponse> KyoceraVIPackingSystem.ERPService.ERPWebServiceSoap.ShippingGetByBoxIDAsync(KyoceraVIPackingSystem.ERPService.ShippingGetByBoxIDRequest request) {
+            return base.Channel.ShippingGetByBoxIDAsync(request);
+        }
+        
+        public System.Threading.Tasks.Task<KyoceraVIPackingSystem.ERPService.ShippingGetByBoxIDResponse> ShippingGetByBoxIDAsync(string boxID) {
+            KyoceraVIPackingSystem.ERPService.ShippingGetByBoxIDRequest inValue = new KyoceraVIPackingSystem.ERPService.ShippingGetByBoxIDRequest();
+            inValue.Body = new KyoceraVIPackingSystem.ERPService.ShippingGetByBoxIDRequestBody();
+            inValue.Body.boxID = boxID;
+            return ((KyoceraVIPackingSystem.ERPService.ERPWebServiceSoap)(this)).ShippingGetByBoxIDAsync(inValue);
+        }
+        
+        [System.ComponentModel.EditorBrowsableAttribute(System.ComponentModel.EditorBrowsableState.Advanced)]
         KyoceraVIPackingSystem.ERPService.OQCTestLogExistResponse KyoceraVIPackingSystem.ERPService.ERPWebServiceSoap.OQCTestLogExist(KyoceraVIPackingSystem.ERPService.OQCTestLogExistRequest request) {
             return base.Channel.OQCTestLogExist(request);
         }
@@ -6516,7 +6716,7 @@ namespace KyoceraVIPackingSystem.ERPService {
             return base.Channel.FixtureFind(request);
         }
         
-        public KyoceraVIPackingSystem.ERPService.FixtureEntity FixtureFind(string productId) {
+        public KyoceraVIPackingSystem.ERPService.FixtureEntity[] FixtureFind(string productId) {
             KyoceraVIPackingSystem.ERPService.FixtureFindRequest inValue = new KyoceraVIPackingSystem.ERPService.FixtureFindRequest();
             inValue.Body = new KyoceraVIPackingSystem.ERPService.FixtureFindRequestBody();
             inValue.Body.productId = productId;
