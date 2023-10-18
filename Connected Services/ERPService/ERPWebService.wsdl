@@ -355,6 +355,39 @@
           </s:sequence>
         </s:complexType>
       </s:element>
+      <s:element name="ShippingRevert">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="boxID" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ShippingRevertResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ShippingRevertResult" type="tns:ResultEntity" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ShippingGetByBoxID">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="boxID" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ShippingGetByBoxIDResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ShippingGetByBoxIDResult" type="tns:ArrayOfTbl_test_logEntity" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfTbl_test_logEntity">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="tbl_test_logEntity" nillable="true" type="tns:tbl_test_logEntity" />
+        </s:sequence>
+      </s:complexType>
       <s:element name="OQCTestLogExist">
         <s:complexType>
           <s:sequence>
@@ -397,11 +430,6 @@
           </s:sequence>
         </s:complexType>
       </s:element>
-      <s:complexType name="ArrayOfTbl_test_logEntity">
-        <s:sequence>
-          <s:element minOccurs="0" maxOccurs="unbounded" name="tbl_test_logEntity" nillable="true" type="tns:tbl_test_logEntity" />
-        </s:sequence>
-      </s:complexType>
       <s:element name="OQCTestLogFindByBoxID">
         <s:complexType>
           <s:sequence>
@@ -686,10 +714,15 @@
       <s:element name="FixtureFindResponse">
         <s:complexType>
           <s:sequence>
-            <s:element minOccurs="0" maxOccurs="1" name="FixtureFindResult" type="tns:FixtureEntity" />
+            <s:element minOccurs="0" maxOccurs="1" name="FixtureFindResult" type="tns:ArrayOfFixtureEntity" />
           </s:sequence>
         </s:complexType>
       </s:element>
+      <s:complexType name="ArrayOfFixtureEntity">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="FixtureEntity" nillable="true" type="tns:FixtureEntity" />
+        </s:sequence>
+      </s:complexType>
       <s:complexType name="FixtureEntity">
         <s:complexContent mixed="false">
           <s:extension base="tns:BaseEntity">
@@ -718,11 +751,6 @@
           </s:sequence>
         </s:complexType>
       </s:element>
-      <s:complexType name="ArrayOfFixtureEntity">
-        <s:sequence>
-          <s:element minOccurs="0" maxOccurs="unbounded" name="FixtureEntity" nillable="true" type="tns:FixtureEntity" />
-        </s:sequence>
-      </s:complexType>
       <s:element name="FixtureSave">
         <s:complexType>
           <s:sequence>
@@ -1040,6 +1068,18 @@
   <wsdl:message name="OQCTestLogUpdateSoapOut">
     <wsdl:part name="parameters" element="tns:OQCTestLogUpdateResponse" />
   </wsdl:message>
+  <wsdl:message name="ShippingRevertSoapIn">
+    <wsdl:part name="parameters" element="tns:ShippingRevert" />
+  </wsdl:message>
+  <wsdl:message name="ShippingRevertSoapOut">
+    <wsdl:part name="parameters" element="tns:ShippingRevertResponse" />
+  </wsdl:message>
+  <wsdl:message name="ShippingGetByBoxIDSoapIn">
+    <wsdl:part name="parameters" element="tns:ShippingGetByBoxID" />
+  </wsdl:message>
+  <wsdl:message name="ShippingGetByBoxIDSoapOut">
+    <wsdl:part name="parameters" element="tns:ShippingGetByBoxIDResponse" />
+  </wsdl:message>
   <wsdl:message name="OQCTestLogExistSoapIn">
     <wsdl:part name="parameters" element="tns:OQCTestLogExist" />
   </wsdl:message>
@@ -1304,6 +1344,14 @@
     <wsdl:operation name="OQCTestLogUpdate">
       <wsdl:input message="tns:OQCTestLogUpdateSoapIn" />
       <wsdl:output message="tns:OQCTestLogUpdateSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ShippingRevert">
+      <wsdl:input message="tns:ShippingRevertSoapIn" />
+      <wsdl:output message="tns:ShippingRevertSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ShippingGetByBoxID">
+      <wsdl:input message="tns:ShippingGetByBoxIDSoapIn" />
+      <wsdl:output message="tns:ShippingGetByBoxIDSoapOut" />
     </wsdl:operation>
     <wsdl:operation name="OQCTestLogExist">
       <wsdl:input message="tns:OQCTestLogExistSoapIn" />
@@ -1591,6 +1639,24 @@
     </wsdl:operation>
     <wsdl:operation name="OQCTestLogUpdate">
       <soap:operation soapAction="http://tempuri.org/OQCTestLogUpdate" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ShippingRevert">
+      <soap:operation soapAction="http://tempuri.org/ShippingRevert" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ShippingGetByBoxID">
+      <soap:operation soapAction="http://tempuri.org/ShippingGetByBoxID" style="document" />
       <wsdl:input>
         <soap:body use="literal" />
       </wsdl:input>
@@ -2044,6 +2110,24 @@
     </wsdl:operation>
     <wsdl:operation name="OQCTestLogUpdate">
       <soap12:operation soapAction="http://tempuri.org/OQCTestLogUpdate" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ShippingRevert">
+      <soap12:operation soapAction="http://tempuri.org/ShippingRevert" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ShippingGetByBoxID">
+      <soap12:operation soapAction="http://tempuri.org/ShippingGetByBoxID" style="document" />
       <wsdl:input>
         <soap12:body use="literal" />
       </wsdl:input>

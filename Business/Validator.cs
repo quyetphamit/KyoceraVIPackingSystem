@@ -665,7 +665,7 @@ namespace KyoceraVIPackingSystem.Business
                 var date = (DateTime)exists.DateCheck;
                 entity.msg = $"[{boardNo}] đã được bắn ngày [{date.ToString("yyyy-MM-dd")} {exists.TimeCheck}].\nVui lòng kiểm tra và thông tin lại với Leader!";
                 entity.Type = MessageMode.LOCK;
-               // yield return entity;
+               yield return entity;
             }
             var orderNo = SingletonHelper.ERPInstance.KyoGetInit(boardNo);
             if (orderNo == null)
